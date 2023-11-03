@@ -1,2 +1,4 @@
-# 3_quant_strategies_for_course_report
-Consisting 3 quant strategies, 2 of them are base on machine learning and the other is an simple factor strategy.
+# 3 quant strategies
+Hello，
+the introduction of this repository is as follows: The data and factors used in this repository for all the strategies are sourced from JoinQuant. It includes three quantitative strategies, two machine learning stock selection strategies (SVM and RandomForestClassifier), and a multi-factor stock selection strategy based on the principles of value investing, contrarian investing, and growth investing. 
+Thx for reading.
