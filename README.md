@@ -1,3 +1,4 @@
 # 4 quant strategies
+#### I understand there is a conflict between the README and the repository title. This arose because I added a new strategy Python file after submitting the application, and changing the title would render the link provided in my resume invalid. Therefore, I only updated the content within the repository while retaining the original title.
 Hello，the introduction of this repository is as follows: The data,factors and modules used in this repository for all the strategies are sourced from JoinQuant. It includes four quantitative strategies, two machine learning stock selection strategies (SVM and RandomForestClassifier), and 2 multi-factor stock selection strategies,with one based on the principles of value investing, contrarian investing, and growth investing while the another based on financial factors. 
 Thx for reading.
